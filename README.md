@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Hey+there!+👋+I'm+ARNAV+TRIPATHI;Let's+connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=440&lines=Hey+there!+I'm+ARNAV+TRIPATHI;Let's+connect!" alt="Typing SVG" />
 </p>
 
 <!-- Decorative underline with gradient -->
