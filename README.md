@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnav Tripathi</h1>
+<h1 align="center">Hi 👋, I'm Arnav Tripathi!</h1>
 <h3 align="center">Tech Enthusiast</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ### 🧠 About Me
 - 🌱 I am learning **Machine Learning**.
 - 💬 Ask me about: **Data Science, Electrical Engineering and Cricket.**
-- ⚡ Fun fact: I once went 10 cricket matches in a row without scoring a single run.
+- ⚡ Fun fact: I once went 10 cricket matches in a row without scoring a single run. 🏏
 
 ---
 
@@ -30,41 +30,51 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArnavTripathi1&show_icons=true&theme=github_dark" />
-  <br/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTripathi1&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ArnavTripathi1&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArnavTripathi1&theme=darkhub" />
 </p>
 
 ---
 
 ### 📖 A Light Quote
 
-> "There is no cloud. It’s just someone else’s computer."  
-> — A dev
+<p align="center" style="font-style: italic; font-size: 1.1em; margin: 0;">
+  "There is no cloud. It’s just someone else’s computer."
+</p>
+<p align="center" style="font-weight: bold; margin-top: 0;">~ A dev</p>
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/arnav-tripathi-833993319)  
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:arnavtripathi5284@gmail.com)  
-[![Medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)](https://medium.com/@arnavtripathi5284)
-[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://instagram.com/arnav_tripathi11)  
+<p align="center">
+  <a href="https://linkedin.com/in/arnav-tripathi-833993319" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:arnavtripathi5284@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@arnavtripathi5284" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium" alt="Medium" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/arnav_tripathi11" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
 <p align="center">✨ Thanks for stopping by! Let's connect and build something awesome. ✨</p>
-
-<!--
-**ArnavTripathi1/ArnavTripathi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
