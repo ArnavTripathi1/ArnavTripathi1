@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=440&lines=Hey+there!+I'm+ARNAV+TRIPATHI;Let's+connect!" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey there! I am ARNAV TRIPATHI 👋</h1>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #00CED1, #FF69B4); margin: 20px 0;">
 
