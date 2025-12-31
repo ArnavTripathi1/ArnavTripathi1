@@ -30,42 +30,8 @@
 <h2 align="center" style="color: #00CED1; font-weight: 900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavTripathi1&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 0 15px #00CED1;" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTripathi1&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 12px; box-shadow: 0 0 15px #FF69B4;" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ArnavTripathi1&theme=tokyonight" alt="GitHub Streak" style="border-radius: 12px; box-shadow: 0 0 15px #00CED1;" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArnavTripathi1&theme=tokyonight" alt="Trophies" style="border-radius: 12px; box-shadow: 0 0 15px #FF69B4;" />
-</p>
-
-<hr style="border: 0; height: 2px; background: linear-gradient(to right, #00CED1, #FF69B4); margin: 20px 0;">
-
-<h2 align="center" style="color: #00CED1; font-weight: 900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">💡 A Light Quote</h2>
-
-<div align="center" style="
-  background: linear-gradient(145deg, #222233, #1e1e2f);
-  color: #00FFFF;
-  padding: 30px 40px;
-  border-radius: 20px;
-  max-width: 600px;
-  margin: auto;
-  font-size: 1.3em;
-  font-weight: 700;
-  box-shadow: 0 0 20px #FF69B4, inset 0 0 10px #00CED1;
-  text-align: center;
-  line-height: 1.6;
-  font-family: 'Courier New', Courier, monospace;
-">
-  <div style="font-size: 2.5em; color: #FF69B4;">❝</div>
-  There is no cloud. It’s just someone else’s computer.
-  <div style="font-size: 2.5em; color: #FF69B4;">❞</div>
-  <div style="margin-top: 15px; color: #FFD700; font-style: italic;">~ A dev</div>
-</div>
-
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #00CED1, #FF69B4); margin: 20px 0;">
 
 <h2 align="center" style="color: #00CED1; font-weight: 900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📫 Connect with Me</h2>
